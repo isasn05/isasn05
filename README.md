@@ -1,4 +1,15 @@
-## Hi there 👋
+## Welcome to my wonderful repository! 👋
+
+<p> Here you will find all shenanigans I get into. Some will be private but dont be afraid to ask me what they are! I'm currently working on the Hack@UCF Vulnerability Research Lab and doing CTFs every weekend! </p>
+
+
+<h2 align="center">⚒️ Technologies ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,supabase,docker,ghidra" /><br>
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows" /><br>
+</div>
 
 <!--
 **isasn05/isasn05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
