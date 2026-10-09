@@ -9,6 +9,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,bash,powershell" />
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql,supabase,docker,ghidra" /><br>
     <img src="https://skillicons.dev/icons?i=ubuntu,windows" /><br>
+    <img src="https://img.shields.io/badge/Ghidra-black?style=for-the-badge" alt="Ghidra" />
+    <img src="https://img.shields.io/badge/Binary%20Ninja-black?style=for-the-badge" alt="Binary Ninja" /> 
 </div>
 
 <!--
